@@ -1,0 +1,6 @@
+para abrir de novo: 
+
+copiar a pasta la-la-cine
+cd la-la-cine
+npm install (se tiver excluido node_modules)
+npx expo start
